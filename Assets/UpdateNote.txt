@@ -1,0 +1,13 @@
+Kinect Unity Wrapper Update Note:
+1. update the wrapper to kinect sdk 1.7 (also work with 1.6 and 1.5) in Unity3D 4.2
+2. Imported joint orientation function from NUI.
+3. Imported seat mode.
+4. fixed the color image and depth image not display issue.
+5. update the flip matrix.
+6. clean/ comment the code and project.
+
+ToDo:
+1. Import kinect interaction functions.
+2. Import kinect fusion.
+3. fix the should center rotation bug for rainbow man in the seat model (Now the spine rotation is disabled whne using seat mode).
+4. Import audio function.
